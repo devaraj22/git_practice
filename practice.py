@@ -3,3 +3,5 @@ def vignesh():
     print("wel")
 
 
+if (5>2):
+    vignesh()
